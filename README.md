@@ -21,7 +21,7 @@ Aplikacja zawiera dwa rozwiązania:
 1️⃣ pierwsze pobiera z bazy danych wszystkie rekordy i algorytm tworzy listy spełniające kryterium zadania (rozwiązanie nieefektywne)
 2️⃣ drugie, z którego korzysta kontroler (@RestController), odpytuje bazę danych zapytaniem w języku natywnym w bazie danych PostgreSQL - to rozwiązanie jest efektywne i do aplikacji pobiera już tylko rekordy, które spełniają żądane kryteria.
 
-<h3 align="center">Tak wygląda odpowiedź serwera w przypadku wybrania numeru kolumny</h3>
+<h3 align="center">Tak wyglądają odpowiedzi serwera na stronie wwww w przypadku wybrania numeru kolumny</h3>
 <h4 align="center">(aplikacja obsługuje wyjątek na wypadek wyboru nieistniejącej kolumny)</h4>
 <div align="center">
   <img src="https://github.com/stepbart/suncodeRecruitment/blob/main/kolumna1.png">
