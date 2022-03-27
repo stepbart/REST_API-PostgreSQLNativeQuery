@@ -108,7 +108,7 @@ public class TestTableService {
     }
 
     public List<TestTable> getDuplicatesUsingNativeNamedQuery(int columnNumber) throws ResultNotFoundException {
-        List<TestTable> results = new ArrayList<>();
+        List<TestTable> results;
         if (columnNumber == 1){
             results = repository.getDuplicateRecordsByColumn1();
         }
@@ -128,7 +128,7 @@ public class TestTableService {
     }
 
     public List<TestTable> getNonDuplicatedRecordsUsingNativeNamedQuery(int columnNumber) throws ResultNotFoundException {
-        List<TestTable> results = new ArrayList<>();
+        List<TestTable> results;
         if (columnNumber == 1){
             results = repository.getNonDuplicatedRecordsByColumn1();
         }
