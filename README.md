@@ -1,4 +1,4 @@
-<h1 align="center">Zadanie rekrutacyjne - Suncode</h1>
+<h1 align="center">Zadanie rekrutacyjne</h1>
 <h3 align="center">Repozytorium z rozwiązanym zadaniem od strony back-endowej</h3>
 
 <!-- TECHNOLOGIE -->
