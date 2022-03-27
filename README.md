@@ -35,7 +35,7 @@ Aplikacja zawiera dwa rozwiązania:
   <img src="https://github.com/stepbart/suncodeRecruitment/blob/main/rozwiazanieAlgorytmiczne.png">
 </div>
 
-<h3 align="center">Tak wyglądają odpowiedzi serwera na stronie wwww w przypadku wybrania numeru kolumny</h3>
+<h3 align="center">Tak wyglądają odpowiedzi serwera na stronie www w przypadku wybrania numeru kolumny</h3>
 <h4 align="center">(aplikacja obsługuje wyjątek na wypadek wyboru nieistniejącej kolumny)</h4>
 <div align="center">
   <img src="https://github.com/stepbart/suncodeRecruitment/blob/main/kolumna1.png">
