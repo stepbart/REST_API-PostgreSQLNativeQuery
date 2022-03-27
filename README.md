@@ -31,12 +31,14 @@ Aplikacja zawiera dwa rozwiązania:
   <img src="https://github.com/stepbart/suncodeRecruitment/blob/main/z%C5%82yNumerKolumny.png">  
 </div>
 
-<h3 align="center">Przykład zapytania query w języku natywnymy</h3>
+<h3 align="center">Przykład zapytania query w języku natywnym:</h3>
+
 <div align="center">
   <img src="https://github.com/stepbart/suncodeRecruitment/blob/main/nativeNamedQuery.png">
 </div>
 
-<h3 align="center">Screen z rozwiązania algorytmicznego, szukający rekordów wśród obiektów Java, po stronie aplikacji</h3>
+<h3 align="center">Screen z rozwiązania algorytmicznego, szukający rekordów wśród obiektów Java, po stronie aplikacji:</h3>
+
 <div align="center">
   <img src="https://github.com/stepbart/suncodeRecruitment/blob/main/rozwiazanieAlgorytmiczne.png">
 </div>
