@@ -9,6 +9,7 @@
 <h4 align="left">✅ Hibernate</h4>
 <h4 align="left">✅ PostgreSQL</h4>
 <h4 align="left">✅ Lombok</h4>
+<h4 align="left">✅ Mockito</h4>
 <h4 align="left">✅ Maven</h4>
 <h4 align="left">✅ JPA</h4>
 
