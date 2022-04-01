@@ -18,9 +18,10 @@
 
 Aplikacja webowa, która pobiera dane z zewnętrznej bazy danych (PostgreSQL), zwracająca dwie listy dla wybranej kolumny:
 1) pierwsza zwraca listę rekordów, których wartości się w danej kolumnie powtarzają,
-2) droga zwraca listę rekordów, których wartości są unikalne.
+2) druga zwraca listę rekordów, których wartości są unikalne.
 
-<!-- -->
+____________________________
+
 Aplikacja zawiera dwa rozwiązania:
 <h4 align="left">1️⃣ pierwsze rozwiązanie, z którego korzysta kontroler (@RestController), odpytuje bazę danych zapytaniem w języku natywnym w bazie danych PostgreSQL - to rozwiązanie jest efektywne i do aplikacji pobiera już tylko rekordy, które spełniają żądane kryteria.</h4>
 
