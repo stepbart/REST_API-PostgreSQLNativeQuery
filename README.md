@@ -1,4 +1,4 @@
-<h1 align="center">Zadanie rekrutacyjne</h1>
+<h1 align="center">Aplikacja Webowa - zadanie rekrutacyjne</h1>
 <h3 align="center">Repozytorium z rozwiązanym zadaniem od strony back-endowej</h3>
 
 <!-- TECHNOLOGIE -->
@@ -13,11 +13,14 @@
 <h4 align="left">✅ Maven</h4>
 <h4 align="left">✅ JPA</h4>
 
-<!-- KOMENTARZ DO ROZWIĄZANIA ZADANIA -->
+<!-- OPIS DZIAŁANIA APLIKACJI -->
 ## O projekcie
 
-Napisałem aplikację RESTową w formie serwisu Web, która odpytuje bazę danych i zwraca w wyniku, wyświetlając na stronie, dwie listy z rekordami - pierwsza zawiera tylko te rekordy, które w wybranej kolumnie mają wartość pojawiającą się więcej niż raz, druga zwraca wyłącznie te, które w danej kolumnie mają unikatową wartość.
+Aplikacja webowa, która pobiera dane z zewnętrznej bazy danych (PostgreSQL), zwracająca dwie listy dla wybranej kolumny:
+1) pierwsza zwraca listę rekordów, których wartości się w danej kolumnie powtarzają,
+2) droga zwraca listę rekordów, których wartości są unikalne.
 
+<!-- -->
 Aplikacja zawiera dwa rozwiązania:
 <h4 align="left">1️⃣ pierwsze rozwiązanie, z którego korzysta kontroler (@RestController), odpytuje bazę danych zapytaniem w języku natywnym w bazie danych PostgreSQL - to rozwiązanie jest efektywne i do aplikacji pobiera już tylko rekordy, które spełniają żądane kryteria.</h4>
 
