@@ -1,4 +1,4 @@
-<h1 align="center">Aplikacja Webowa - zadanie rekrutacyjne</h1>
+<h1 align="center">Web Service</h1>
 <h3 align="center">Repozytorium z rozwiązanym zadaniem od strony back-endowej</h3>
 
 <!-- TECHNOLOGIE -->
