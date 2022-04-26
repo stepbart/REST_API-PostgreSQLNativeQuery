@@ -1,5 +1,5 @@
 <h1 align="center">Web Service</h1>
-<h3 align="center">Repozytorium z rozwiązanym zadaniem od strony back-endowej</h3>
+<h3 align="center">Aplikacja webowa z bazą danych PostgreSQL</h3>
 
 <!-- TECHNOLOGIE -->
 
@@ -22,7 +22,7 @@ Aplikacja webowa, która pobiera dane z zewnętrznej bazy danych (PostgreSQL), z
 
 ____________________________
 
-Aplikacja zawiera dwa rozwiązania:
+Aplikacja zawiera dwa rozwiązania problemu:
 <h4 align="left">1️⃣ pierwsze rozwiązanie, z którego korzysta kontroler (@RestController), odpytuje bazę danych zapytaniem w języku natywnym w bazie danych PostgreSQL - to rozwiązanie jest efektywne i do aplikacji pobiera już tylko rekordy, które spełniają żądane kryteria.</h4>
 
 <h3 align="center">Przykład zapytania query w języku natywnym:</h3>
